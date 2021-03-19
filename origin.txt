@@ -1,0 +1,252 @@
+Uri: https://incontrii.github.io/
+File Name: c:\Downloaded Web Sites\incontrii.github.io\index.htm
+Content Type: text/html
+
+Uri: https://incontrii.github.io/assets/dist/css/lib.min.css?v=5
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\css\lib.min.css
+Content Type: text/css
+
+Uri: https://incontrii.github.io/assets/dist/css/bundle.min.css?v=5
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\css\bundle.min.css
+Content Type: text/css
+
+Uri: https://incontrii.github.io/manifest.json
+File Name: c:\Downloaded Web Sites\incontrii.github.io\manifest.json
+Content Type: application/json
+
+Uri: https://incontrii.github.io/assets/dist/img/favicon/favicon.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\favicon\favicon.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/favicon/favicon_192.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\favicon\favicon_192.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/compare
+File Name: c:\Downloaded Web Sites\incontrii.github.io\compare.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/matches
+File Name: c:\Downloaded Web Sites\incontrii.github.io\matches.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/special-offer
+File Name: c:\Downloaded Web Sites\incontrii.github.io\special-offer.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/articles
+File Name: c:\Downloaded Web Sites\incontrii.github.io\articles.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/about
+File Name: c:\Downloaded Web Sites\incontrii.github.io\about.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/terms
+File Name: c:\Downloaded Web Sites\incontrii.github.io\terms.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/faq
+File Name: c:\Downloaded Web Sites\incontrii.github.io\faq.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/assets/dist/img/flags/Italy.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\flags\Italy.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/e-hookups@2x.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\e-hookups@2x.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/cavalcami.com/cavalcami.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\cavalcami.com\cavalcami.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/flirthits.com/flirthits.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\flirthits.com\flirthits.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/snapdate.it/snapdate.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\snapdate.it\snapdate.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/avventurefocose.com/avventurefocose.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\avventurefocose.com\avventurefocose.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/soloavventure.it/soloavventure.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\soloavventure.it\soloavventure.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/labels/trending-star.gif
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\labels\trending-star.gif
+Content Type: image/gif
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/milfpins.com/milfpins2x.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\milfpins.com\milfpins2x.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/ashleymadison.com/ashleymadison.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\ashleymadison.com\ashleymadison.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/c-date.co.za/c-date.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\c-date.co.za\c-date.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/js/all.min.js?v=5
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://incontrii.github.io/assets/js/puoffer.js?v=9
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\js\puoffer.js
+Content Type: application/javascript
+
+Uri: https://incontrii.github.io/assets/js/webpush.js?v=17
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\js\webpush.js
+Content Type: application/javascript
+
+Uri: https://incontrii.github.io/assets/dist/img/plus.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\plus.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/minus.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\minus.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/push/banner image_670x200.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\push\banner image_670x200.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/push/banner_mobile_169x119.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\push\banner_mobile_169x119.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/Rating/plus.svg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\Rating\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://incontrii.github.io/assets/dist/img/Rating/minus.svg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\Rating\minus.svg
+Content Type: image/svg+xml
+
+Uri: https://incontrii.github.io/assets/dist/img/specialOffer/background.svg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\specialOffer\background.svg
+Content Type: image/svg+xml
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/e-hookups.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\e-hookups.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/cavalcami.com/cavalcamiCom.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\cavalcami.com\cavalcamiCom.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/flirthits.com/flirthitsCom.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\flirthits.com\flirthitsCom.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/avventurefocose.com/avventurefocoseCom.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\avventurefocose.com\avventurefocoseCom.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/soloavventure.it/soloavventureCom.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\soloavventure.it\soloavventureCom.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/milfpins.com/milfpins.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\milfpins.com\milfpins.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/ashleymadison.com/ashleymadisonCom.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\ashleymadison.com\ashleymadisonCom.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/logos/c-date.co.za/c-dateCom.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\logos\c-date.co.za\c-dateCom.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/Rating/check.svg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\Rating\check.svg
+Content Type: image/svg+xml
+
+Uri: https://incontrii.github.io/assets/js/angular.min.js
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\js\angular.min.js
+Content Type: application/javascript
+
+Uri: https://incontrii.github.io/assets/dist/img/matches/GIFRADARnobgr.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\matches\GIFRADARnobgr.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/js/leaflet.min.js
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\js\leaflet.min.js
+Content Type: application/javascript
+
+Uri: https://incontrii.github.io/goto/special-offer/5u2b1djckkagi5irq
+File Name: c:\Downloaded Web Sites\incontrii.github.io\goto\special-offer\5u2b1djckkagi5irq.txt
+Content Type: text/plain
+
+Uri: https://incontrii.github.io/assets/dist/img/specialOffer/cougarsnest.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\specialOffer\cougarsnest.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/assets/dist/img/dating-tips/clouds-2597270_640.jpg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\dating-tips\clouds-2597270_640.jpg
+Content Type: image/jpeg
+
+Uri: https://incontrii.github.io/assets/dist/img/dating-tips/people-2557411_640.jpg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\dating-tips\people-2557411_640.jpg
+Content Type: image/jpeg
+
+Uri: https://incontrii.github.io/assets/dist/img/dating-tips/pratik-gupta-CNOo9ZMBqRM-unsplash.jpg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\dating-tips\pratik-gupta-CNOo9ZMBqRM-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://incontrii.github.io/assets/dist/img/dating-tips/handshake-3382503_640.jpg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\dating-tips\handshake-3382503_640.jpg
+Content Type: image/jpeg
+
+Uri: https://incontrii.github.io/assets/dist/img/dating-tips/heart-3698156_640.jpg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\dating-tips\heart-3698156_640.jpg
+Content Type: image/jpeg
+
+Uri: https://incontrii.github.io/assets/dist/img/dating-tips/agenda-3991875_640.jpg
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\dating-tips\agenda-3991875_640.jpg
+Content Type: image/jpeg
+
+Uri: https://incontrii.github.io/tip/how-to-reach-a-girl-online
+File Name: c:\Downloaded Web Sites\incontrii.github.io\tip\how-to-reach-a-girl-online.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/tip/online-dating-successes
+File Name: c:\Downloaded Web Sites\incontrii.github.io\tip\online-dating-successes.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/tip/app-dating-purpose
+File Name: c:\Downloaded Web Sites\incontrii.github.io\tip\app-dating-purpose.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/tip/secrets-of-successful-online-dating
+File Name: c:\Downloaded Web Sites\incontrii.github.io\tip\secrets-of-successful-online-dating.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/tip/keywords-to-attract-online
+File Name: c:\Downloaded Web Sites\incontrii.github.io\tip\keywords-to-attract-online.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/tip/online-acquaintances-first-tet-a-tet
+File Name: c:\Downloaded Web Sites\incontrii.github.io\tip\online-acquaintances-first-tet-a-tet.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/assets/dist/img/flags/Italy@3x.png
+File Name: c:\Downloaded Web Sites\incontrii.github.io\assets\dist\img\flags\Italy@3x.png
+Content Type: image/png
+
+Uri: https://incontrii.github.io/contact
+File Name: c:\Downloaded Web Sites\incontrii.github.io\contact.html
+Content Type: text/html
+
+Uri: https://incontrii.github.io/dating-tips
+File Name: c:\Downloaded Web Sites\incontrii.github.io\dating-tips.txt
+Content Type: text/plain
+
